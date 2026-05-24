@@ -1,0 +1,6 @@
+DB_USER=postgres
+DB_PASSWORD=postgres
+DB_HOST=localhost
+DB_PORT=5433
+DB_NAME=gmaps_scraper
+OPENAI_API_KEY=your_api_key_here
